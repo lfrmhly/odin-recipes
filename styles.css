@@ -1,0 +1,29 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify ;
+    margin: 0 auto;
+    width: 30em;
+    color: #5c202c;
+}
+img{
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+ul{
+    list-style-type: none;
+}
+#recipes{
+    text-align: center;
+}
+a{
+    text-align: center;
+    background-color: #7B021A;
+    color: #fff;
+}
+li a{
+    font-size: large;
+}
+#title{
+    text-align: center;
+}
